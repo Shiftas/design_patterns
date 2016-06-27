@@ -1,7 +1,7 @@
 <?php
 
-use Shiftas\Source\Collection\ArrayList;
-use Shiftas\Source\Collection\LoggingCollection;
+use Shiftas\Source\Decorator\ArrayList;
+use Shiftas\Source\Decorator\LoggingCollection;
 use Shiftas\Source\Strategy\AscendingSort;
 use Shiftas\Source\Strategy\DescendingSort;
 

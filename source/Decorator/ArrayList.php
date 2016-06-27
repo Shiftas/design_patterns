@@ -6,7 +6,7 @@
  * Time: 1:05 PM
  */
 
-namespace Shiftas\Source\Collection;
+namespace Shiftas\Source\Decorator;
 
 use Shiftas\Source\Strategy\SortStrategy;
 

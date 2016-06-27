@@ -6,11 +6,11 @@
  * Time: 12:10 PM
  */
 
-namespace Shiftas\Test\Collection;
+namespace Shiftas\Test\Decorator;
 
 use Monolog\Logger;
-use Shiftas\Source\Collection\Collection;
-use Shiftas\Source\Collection\LoggingCollection;
+use Shiftas\Source\Decorator\Collection;
+use Shiftas\Source\Decorator\LoggingCollection;
 use PHPUnit_Framework_MockObject_MockObject as MockObject;
 
 class LoggingCollectionTest extends \PHPUnit_Framework_TestCase

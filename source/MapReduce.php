@@ -1,7 +1,7 @@
 <?php
 namespace Shiftas\Source;
 
-use Shiftas\Source\Collection\ArrayList;
+use Shiftas\Source\Decorator\ArrayList;
 
 /**
  * Created by PhpStorm.

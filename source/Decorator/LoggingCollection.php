@@ -6,7 +6,7 @@
  * Time: 11:59 AM
  */
 
-namespace Shiftas\Source\Collection;
+namespace Shiftas\Source\Decorator;
 
 
 use Monolog\Logger;

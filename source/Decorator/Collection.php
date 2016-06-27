@@ -6,7 +6,7 @@
  * Time: 11:55 AM
  */
 
-namespace Shiftas\Source\Collection;
+namespace Shiftas\Source\Decorator;
 
 interface Collection
 {

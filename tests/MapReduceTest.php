@@ -1,7 +1,7 @@
 <?php
 namespace Shiftas\Test;
 
-use Shiftas\Source\ArrayList;
+use Shiftas\Source\Decorator\ArrayList;
 use Shiftas\Source\MapReduce;
 use Shiftas\Source\Person;
 

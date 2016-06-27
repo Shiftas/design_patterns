@@ -6,11 +6,11 @@
  * Time: 11:47 AM
  */
 
-namespace Shiftas\Test\Collection;
+namespace Shiftas\Test\Decorator;
 
 
 use PHPUnit_Framework_MockObject_MockObject as MockObject;
-use Shiftas\Source\Collection\ArrayList;
+use Shiftas\Source\Decorator\ArrayList;
 use Shiftas\Source\Strategy\SortStrategy;
 
 class ArrayListTest extends \PHPUnit_Framework_TestCase
