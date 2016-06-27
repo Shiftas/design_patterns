@@ -23,6 +23,11 @@ class PrinterPool
         $this->availablePrintersCount = $availablePrintersCount;
     }
 
+    /**
+     * @return Printer
+     *
+     * @throws PrinterUnavailableException
+     */
     public function getPrinter()
     {
         if (count($this->usedPrinters) >= $this->availablePrintersCount) {
