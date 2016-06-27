@@ -15,7 +15,7 @@ class DescendingSort implements SortStrategy
      *
      * @return array
      */
-    public function sort(array $list)
+    public function sort(array $list) : array
     {
         rsort($list);
         return $list;

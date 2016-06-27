@@ -15,7 +15,7 @@ class AscendingSort implements SortStrategy
      *
      * @return array
      */
-    public function sort(array $list)
+    public function sort(array $list) : array
     {
         sort($list);
         return $list;

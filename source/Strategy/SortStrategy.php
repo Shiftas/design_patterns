@@ -10,5 +10,5 @@ namespace Shiftas\Source\Strategy;
 
 interface SortStrategy
 {
-    public function sort(array $list);
+    public function sort(array $list) : array;
 }
